@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1587379169 source:/home/hh/Desktop/C++/CodeBlocks/test/main.cpp
+	<iostream>
+	<Particle.h>
+	<FallingParticle.h>
+
+1587367375 source:/home/hh/Desktop/C++/CodeBlocks/test/src/FallingParticle.cpp
+	"FallingParticle.h"
+
+1587378555 /home/hh/Desktop/C++/CodeBlocks/test/include/FallingParticle.h
+	<Particle.h>
+
+1587367330 /home/hh/Desktop/C++/CodeBlocks/test/include/Particle.h
+	<iostream>
+

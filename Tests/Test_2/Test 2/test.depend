@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588402075 source:/home/hh/Desktop/C++/CodeBlocks/test/main.cpp
+	<iostream>
+	<Particle.h>
+	<vector>
+
+1588402672 /home/hh/Desktop/C++/CodeBlocks/test/include/Particle.h
+	<cmath>
+
+1588401795 source:/home/hh/Desktop/C++/CodeBlocks/test/src/Particle.cpp
+	<Particle.h>
+
