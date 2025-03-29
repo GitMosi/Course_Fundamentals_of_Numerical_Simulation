@@ -6,9 +6,9 @@ Collection of various C++ simulation projects completed during coursework at K.N
 - [Course: Fundamentals of Numerical Simulation]
   * Superviser: Dr. Hadi Hedayati
   * University: K.N.T University of Technology
-  * Semester: Fall/2020
+  * Semester: Winter/2020
 
 ## Book Projects
 - [Book: Numerical Analysis and Optimization: An Introduction to Mathematical Modelling and Numerical Simulation (Numerical Mathematics and Scientific Computation)]
   * Authors: Grégoire Allaire, Alan Craig
-  * Year: Summer 2007
+  * Year: 2007
