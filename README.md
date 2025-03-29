@@ -1,6 +1,6 @@
 # Course_Fundamentals_of_Numerical_Simulation
 
-Collection of various C++ projects completed during coursework at K.N.T University of Technology and personal programming exercises.
+Collection of various C++ simulation projects completed during coursework at K.N.T University of Technology and personal programming exercises.
 
 ## Course Projects
 - [Course: Fundamentals of Numerical Simulation]
